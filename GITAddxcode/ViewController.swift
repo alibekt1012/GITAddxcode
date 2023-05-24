@@ -15,6 +15,12 @@ class ViewController: UIViewController {
     }
     
     // This change for new branch
+    
+    func commitPushPull() {
+        
+        print("Hey! This is a git commands!")
+        
+    }
 
 
 }
